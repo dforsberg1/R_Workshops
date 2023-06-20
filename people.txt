@@ -1,0 +1,36 @@
+Name, Age, City
+John, 25, New York
+Emma, 30, Los Angeles
+Michael, 28, Chicago
+Sophia, 32, San Francisco
+Liam, 27, Boston
+Olivia, 31, Seattle
+James, 29, Denver
+Ava, 26, Miami
+William, 33, Houston
+Isabella, 28, Dallas
+Alexander, 29, Philadelphia
+Mia, 27, Atlanta
+Benjamin, 30, Phoenix
+Charlotte, 31, Washington D.C.
+Daniel, 28, San Diego
+Amelia, 29, Austin
+Matthew, 25, Nashville
+Harper, 33, Detroit
+Joseph, 26, Portland
+Emily, 32, Minneapolis
+David, 27, Orlando
+Elizabeth, 30, Tampa
+Andrew, 31, Pittsburgh
+Abigail, 28, St. Louis
+Ryan, 29, San Antonio
+Grace, 25, Kansas City
+Jackson, 26, Salt Lake City
+Sophie, 33, Raleigh
+Samuel, 27, Indianapolis
+Lily, 28, Columbus
+Henry, 30, Charlotte
+Starla, 42, Miami
+Linda, 22, Austin
+Juan, 34, El Paso
+Kate, 28, Salt Lake City
